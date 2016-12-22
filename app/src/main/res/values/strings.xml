@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraSystemDemo</string>
+    <string name="openPhoto">打开系统相机</string>
+    <string name="openandsavePhoto">打开相机并返回显示图片</string>
+</resources>
